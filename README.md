@@ -8,7 +8,7 @@
 - I’m working as a Software Engineer and contributing to frontend for building web applications.
 - Buzzwords: 
 Javascript (Vue.js (v2, v3 composition api), lodash, JQuery, WebSocket, Vuex/Pinia, REST API, SPA
-Adaptive layout, BEM, CSS3, Sass, Cross-browser layout, Landing page, Bootstrap, Git
+Adaptive layout, BEM, CSS3, Sass, Cross-browser layout, Landing page, Bootstrap, Git, Figma, php
 - How to reach me:  <a href="https://t.me/Huzyablik"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 
 ---
@@ -25,7 +25,9 @@ Adaptive layout, BEM, CSS3, Sass, Cross-browser layout, Landing page, Bootstrap,
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" height="40"/>&nbsp;
 
-  
+---
+
+   <img src="https://media.giphy.com/media/Basrh159dGwKY/giphy.gif" width="500"/>
 
 
 
