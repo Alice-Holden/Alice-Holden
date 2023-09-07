@@ -10,6 +10,7 @@
 Javascript (Vue.js (v2, v3 composition api), lodash, JQuery, WebSocket, Vuex/Pinia, REST API, SPA
 Adaptive layout, BEM, CSS3, Sass, Cross-browser layout, Landing page, Bootstrap, Git
 - How to reach me:  <a href="https://t.me/Huzyablik"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+
 ---
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" height="40"/>&nbsp;
@@ -24,7 +25,7 @@ Adaptive layout, BEM, CSS3, Sass, Cross-browser layout, Landing page, Bootstrap,
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" height="40"/>&nbsp;
 
-  ---
+  
 
 
 
